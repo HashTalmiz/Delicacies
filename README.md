@@ -1,4 +1,5 @@
-# foodapp
+# Delicacies - A Nuxt Food App
+
 
 ## Build Setup
 
@@ -18,3 +19,4 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+#### Credit to Sarah Drasner for the amazing course! 
